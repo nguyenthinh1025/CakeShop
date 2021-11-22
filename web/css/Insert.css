@@ -1,0 +1,55 @@
+.descriptionTxt{
+    margin-left: 5px;
+}
+
+#btnSubmit{
+    color: #ffffff;
+    margin-left: 20%;
+    background-color: rgb(66,139,202);
+    border: 1px solid rgb(66,139,202);
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+}
+#formContent{
+    display: inline-block;
+    text-align: right;
+    margin-right: 15px;
+    width: 150px;
+    font-weight: bold;
+    font-size: 80%;
+}
+#logoutButton{
+    position: absolute;
+    top: 20%;
+    left:80%;
+    color: #ffffff;
+    background-color: rgb(217,83,79);
+    border: 1px solid rgb(217,83,79);
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+}
+#mainContainer{
+    position:absolute;
+    top:40%;
+    left:20%;
+    width: 60%;
+}
+
+.inputText{
+    margin-bottom: 2%;
+}
+
+
+#containerHeader{
+    padding: 1%;
+    margin-bottom: 2%;
+    border-bottom: 1px solid rgb(205,205,205);
+}
+
+ 
+.formContentDes{
+    float: left;
+}
+
